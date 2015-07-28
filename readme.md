@@ -1,21 +1,30 @@
-## Cargo Bay _v0.8.6_
+## Cargo Bay
+Cargo Bay is a html, scss/css and js component library by Kunstmaan
 
-Cargo Bay is a utility library with some useful and commonly used components and snippets.
+
+### Add-ons
+- [Scroll-to](add-ons/scroll-to/)
+- [Scroll-to-top](add-ons/scroll-to-top/)
+- [Toggle](add-ons/toggle/)
+- [Has space](add-ons/has-space/)
+- [Tabs](add-ons/tabs/)
+- [Sidebar Toggle](add-ons/sidebar-toggle/)
+- [Float label form](add-ons/float-label-form/)
+- [Cookie-consent bar](add-ons/cookie-consent/)
+- [Videolink](add-ons/videolink/)
+- [Responsive audioplayer](add-ons/audioplayer/)
 
 
-### Includes
-- [Scroll-to](src/scroll-to/)
-- [Scroll-to-top](src/scroll-to-top/)
-- [Toggle](src/toggle/)
-- [Has space](src/has-space/)
-- [Cookie-consent bar](src/cookie-consent/)
-- [Responsive audioplayer](src/audioplayer/)
-- [Videolink](src/videolink/)
-- [Full image background fallack](src/full-img-bg/)
-- [Tabs](src/tabs/)
-- [Sidebar Toggle](src/sidebar-toggle/)
-- [Float label form](src/float-label-form/)
+### Startkit
+General
+- [Base](startkit/general/base/)
+- [Headings](startkit/general/headings/)
+- [Bodycopy](startkit/general/bodycopy/)
 
+Blocks
+- [Buttons](startkit/blocks/buttons/)
+- [Hr](startkit/blocks/hr/)
+- [Images](startkit/blocks/images/)
 
 
 ### Installing using Bower
